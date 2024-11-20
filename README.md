@@ -32,6 +32,7 @@ To run the notebooks, ensure you have the following installed:
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter) Jupyter Notebook
 - ![NumPy](https://img.shields.io/badge/-NumPy-lightgrey?logo=python) NumPy
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-yellow?logo=python) Matplotlib
+- ![SciPy](https://img.shields.io/badge/-SciPy-green?logo=scipy) SciPy (for `solve_ivp` ODE solver)
 
 ---
 
